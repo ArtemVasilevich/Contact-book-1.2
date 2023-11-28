@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Mr. Freeman",
+      "phone": "ххх-ххх-ххх",
+      "img": "https://avatars.mds.yandex.net/i?id=61cbab5f39c2ec39445472a274734088f1e6ab4b-9151370-images-thumbs&n=13"
+    },
+    {
+      "id": 2,
+      "name": "П.П. Петров",
+      "phone": "ххх-ххх-ххх",
+      "img": "https://instalook.ru/uploads/dakimakura/mr-freeman-2912.jpg"
+    }
+  ]
+}
